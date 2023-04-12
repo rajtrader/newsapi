@@ -5,7 +5,7 @@
 
 from GoogleNews import GoogleNews
 googlenews = GoogleNews()
-import pandas as pdA
+import pandas as pd
 import os
 from io import StringIO
 import json 
